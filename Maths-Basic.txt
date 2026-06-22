@@ -1,0 +1,17 @@
+Mean - avg val of the data.
+Median - middle value from arranged listed data.
+Mode - maximum times repeated value out of the data.
+
+THESE ARE VERY MUCH FOR MACHINE LEARNING - 
+1. CLEANING THE DATA .
+2. CLEANING THE OUTLIERS.
+3. ANALYSE THE DATA.
+4. FIND THE ERRORS FROM THE DATA 
+
+DATA SHOULD BE BALANCED -  "The data that we use to feed the model should be very much 
+-                          clean and neat and balanced. The data should not be unbalanced
+-                          because unbalanced data will produce and make biased model and 
+-                          outputs made by the Model will not be as predicted and will be
+-                          incorrect."
+
+
