@@ -65,3 +65,27 @@ Recall: "Did I catch all the spam?"
 
 Accuracy: "Overall, how often am I right?"
 
+BASIC ALGEBRA
+
+y=mx+c
+
+M = SLOPE
+C = CONSTANT
+X = VARIABLE IN X OR INPUT
+Y = VARIABLE IN Y OR PREDICTED OUTPUT.
+
+PLOTTING X V/S Y :-
+This is very helpful for plotting the graph and then ANALYSE it from the graph.
+
+VECTORS - A vector is a list in which (values / data) stored.(Its 1D)
+
+MATRIX - Matrix is also a list in which data is stored.(Its 2D)
+
+NOTE - For more than 2D like - 3D,4D,etc - TENSOR / nd TENSOR is used to store data.
+
+Standard Deviation:-- 
+
+ DATA SHOULD BE NOT MUCH SPREAD - Data Should be less deviated from the mean value
+If the value is very much spread then we need to clean it before training.
+
+
