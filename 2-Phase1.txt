@@ -1,0 +1,63 @@
+#WHAT ACTUALLY IS MACHINE LEARNING?
+ANS:- When machine learn using the patterns from the past data or experience. 
+-      eg- Netflix Recomendation,Youtube Recomdtn, Shopping, spam emails,etc 
+
+
+ARTIFICIAL INTELLIGENCE - it is the outermost part of the bubble
+-
+- AI is the technology that helps the machines to perform the tasks that usually needs
+  the use of the human brain or human thinking.
+
+- ML is a Sub-Part of AI.
+- here the machine itself learn from the data and patterns that is fed to the machine
+  and here there is no coding involved, so it very important for us to understand the 
+  algorithms for us.
+
+DEEP LEARNING -
+- It acts the brain for machine learning and is a sub part of machine learning.
+- Here in deep learing it tries to copy the human brain and how it works using the neurons
+  of the brain, and it does this process using the high calculative deep mathematics.
+- it needs a huge data.
+- it need a lot of power.
+- there is no rule for this.
+
+------------------------------- TYPES OF MACHINE LEARNING -------------------------------------
+SUPERVISED LEARNING - these are (preffered/idela) when we already knwo about the outcome of the
+-                      desired output.
+
+UNSUPERVISED LEARNING - Its suitable for identifying the patterns in the unlabbeled data 
+-                       without explicit guidance.
+- 
+- ex - In a group of peoples in a party we see and can differentiate between them using differentiate
+-      groups and other ways 
+   
+
+-       1 - Adult , Teen , Old
+-       2 - Formal dress , Fancy Dress , Old School
+-       3 - Job , College and School , Retired
+
+-     This is one way of classification without specific instructions.
+
+REINFORCEMENT LEARNING - This is a type of learning where the machine learns from rewards and punishmnt
+
+-         if it does a good decision making it gets rewarded and if it does wrong decision
+-         then it is punishned and not given any rewards.
+
+NOTE:- AS A BEGINNER WE ALWAYS SHOULD FOCUS OF THE SUPERVISED LEARNING.
+------------------------------------------------------------------------------------------------------------------
+-------------------------------------CORE ML TOPICS---------------------------------------------
+
+INPUT - its always denoted using the symbol of "X" or capital 'X' only always.
+
+OUTPUT - its always denoted using the symbol of "y" or small "y" only.
+
+MODEL - its the main brain behind all , it will be trained and then will make decisons and predictions.
+
+TRAINING - the model is now trained in here using the data and pattern as per the models
+
+TESTING - the model is then tested to check for if it produces the correct output or not?
+
+PREDICTION - at the final stage its predicted output is then matched with the real value and if correct
+-            its then ready for making real life predictions.
+
+
